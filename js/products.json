@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "title": "Не забывамый ролл с душой",
+    "description": "Топчик мопчик",
+    "itemsInBox": "1 шт",
+    "weight": 50,
+    "price": 300,
+    "imgSrc": "roll1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Калифорния Америка ролл",
+    "description": "Новый ролл, вкусный из другого города, от зурабчика 2!.",
+    "itemsInBox": "4 кг",
+    "weight": 20,
+    "price": 76,
+    "imgSrc": "california-tempura.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Запеченый ролл Чикарь",
+    "description": "Запелки гдето в Америки и в Гетто.",
+    "itemsInBox": "6 шт",
+    "weight": 182,
+    "price": 230,
+    "imgSrc": "zapech-california.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Филадельфия",
+    "description": "Дополнение к кайфу.",
+    "itemsInBox": "6 шт",
+    "weight": 230,
+    "price": 320,
+    "imgSrc": "philadelphia.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Рашен ролл",
+    "description": "Ролл сделанный в России(не стоит пробовать).",
+    "itemsInBox": "7 шт",
+    "weight": 230,
+    "price": 320,
+    "imgSrc": "loginf.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Чебурек он такой один",
+    "description": "Остался 1 чебурек бери он 1 такой!.",
+    "itemsInBox": "1 шт",
+    "weight": 2,
+    "price": 5,
+    "imgSrc": "222.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Зураб Запеченный",
+    "description": "Печенка от шеф повара зурабчика!.",
+    "itemsInBox": "73 шт",
+    "weight": 100,
+    "price": 500,
+    "imgSrc": "333.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Живой лаваш мамаш",
+    "description": "Лаваш мамаш от зарубчика, имба за свои деньга.",
+    "itemsInBox": "371111 шт",
+    "weight": 453,
+    "price": 9931,
+    "imgSrc": "444.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Филадельфия хит ролл",
+    "description": "Это хит продаж в Америки и Израиле! Бери пока есть еще!.",
+    "itemsInBox": "631 шт",
+    "weight": 1801,
+    "price": 3001,
+    "imgSrc": "philadelphia.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Калифорния темпура",
+    "description": "Вкусное наверное, но лучше не есть хз что это.",
+    "itemsInBox": "6 кг",
+    "weight": 205,
+    "price": 250,
+    "imgSrc": "california-tempura.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Запеченый ролл «Калифорния»",
+    "description": "Пекли во Вьетнаме, под взрывами бомб.",
+    "itemsInBox": "5 кг",
+    "weight": 182,
+    "price": 230,
+    "imgSrc": "zapech-california.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Самса в виде ролла",
+    "description": "Мечтали о самсе, но есть только роллы? Тогда наслаждайтесь самсой в виде ролла!.",
+    "itemsInBox": "8 шт",
+    "weight": 23,
+    "price": 32,
+    "imgSrc": "philadelphia.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Филадельфия",
+    "description": "Не был сделан в Филадельфии, но тоже топчик.",
+    "itemsInBox": "23 шт",
+    "weight": 23,
+    "price": 32,
+    "imgSrc": "111.jpeg"
+  },
+  {
+    "id": 14,
+    "title": "Чебурек лучше всех",
+    "description": "Чебурек который сделан на камчатке из ног аборигенов.",
+    "itemsInBox": "331 шт",
+    "weight": 221,
+    "price": 5,
+    "imgSrc": "222.jpeg"
+  },
+  {
+    "id": 15,
+    "title": "Чебурек",
+    "description": "Точно не с вокзала, не взлетите.",
+    "itemsInBox": "3 кг",
+    "weight": 100,
+    "price": 500,
+    "imgSrc": "333.jpeg"
+  },
+  {
+    "id": 16,
+    "title": "Не готовый ролл",
+    "description": "Не готовый ролл если хотите сделать сами, то это для вас! Еще живая!",
+    "itemsInBox": "41 кг",
+    "weight": 200,
+    "price": 993,
+    "imgSrc": "444.jpeg"
+  },
+  {
+    "id": 17,
+    "title": "Вкусняшка ням ням, лучше не бывает",
+    "description": "Самый вкусный ролл, еще и по скидке что может быть лучше?",
+    "itemsInBox": "51 кг",
+    "weight": 1200,
+    "price": 9993,
+    "imgSrc": "roll123.jpg"
+  }
+]
